@@ -238,7 +238,7 @@ Ingeniero en Sistemas y Científico de Datos con experiencia en Python, SQL, ETL
 
 ## 🌐 Languages
 
-🇬🇧 English (Fluent) • 🇪🇸 Spanish (Native) • 🇮🇹 Italian (Intermediate)
+🇬🇧 English (Fluent) • 🇪🇸 Spanish (Native) • 🇮🇹 Italian (Native)
 
 ---
 
@@ -258,3 +258,4 @@ I'm always open to new opportunities, collaborations, and interesting conversati
 *"Building tools that solve real problems, one commit at a time"* 🚀
 
 </div>
+
