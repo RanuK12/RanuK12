@@ -1,9 +1,23 @@
 <div align="center">
 
+### 🌐 Language / Idioma / Lingua
+
+[![English](https://img.shields.io/badge/🇬🇧_English-active-6C63FF?style=for-the-badge)](README.md)
+[![Español](https://img.shields.io/badge/🇪🇸_Español-click-555?style=for-the-badge)](README.es.md)
+[![Italiano](https://img.shields.io/badge/🇮🇹_Italiano-click-555?style=for-the-badge)](README.it.md)
+
+</div>
+
+---
+
+<div align="center">
+
 # 👋 Hey, I'm Emilio Ranucoli
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Systems+Engineer+%7C+Data+Scientist;Full-Stack+Developer+%7C+Automation+Architect;Python+%7C+TypeScript+%7C+Trading+%7C+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Systems+Engineer+%7C+Data+Scientist;Full-Stack+Developer+%7C+Automation+Architect;Founder+%40+RanuK+IT+Solutions;Python+%7C+TypeScript+%7C+Trading+%7C+AI)](https://git.io/typing-svg)
 
+[![Website](https://img.shields.io/badge/🌐_ranuk.dev-Visit_my_site-6C63FF?style=for-the-badge)](https://ranuk.dev)
+[![RanuK IT](https://img.shields.io/badge/💼_RanuK_IT-Solutions-FF6B6B?style=for-the-badge)](https://ranuk.dev/ranuk-it/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-ranucoli/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RanuK12/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranucoliemilio@gmail.com)
@@ -21,11 +35,14 @@ class EmilioRanucoli:
     def __init__(self):
         self.role = "Systems Engineer & Full-Stack Developer"
         self.company = "Eurobrico S.p.A."
+        self.founder_of = "RanuK IT Solutions (ranuk.dev/ranuk-it)"
+        self.website = "https://ranuk.dev"
         self.languages = ["Python", "TypeScript", "JavaScript", "SQL", "C#"]
         self.current_focus = [
             "Algorithmic trading systems",
             "WhatsApp automation & logistics",
             "Computer vision applications",
+            "ML-powered business solutions",
         ]
         self.interests = ["AI/ML", "FinTech", "Trading Bots", "Open Source"]
 
@@ -35,11 +52,52 @@ class EmilioRanucoli:
 
 I build **production-grade tools** that solve real problems — from **crypto scalping bots** that adapt to market conditions, to **WhatsApp-powered logistics platforms** that automate entire business operations. I focus on clean architecture, measurable impact, and shipping fast.
 
-<details>
-<summary>🇪🇸 <b>Versión en Español</b></summary>
-<br>
-Ingeniero en Sistemas con experiencia en Python, TypeScript, SQL, ETL, integraciones de API y automatización. Especializado en diseñar soluciones escalables: bots de trading algorítmico, plataformas de logística con WhatsApp, sistemas de visión por computadora y herramientas de análisis de datos. Apasionado por el aprendizaje continuo y la innovación.
-</details>
+🔗 **Visit my portfolio:** [**ranuk.dev**](https://ranuk.dev) — projects, case studies & live demos.
+
+---
+
+## 💼 RanuK IT Solutions
+
+> **Boutique software engineering — direct access to the engineer writing your code.**
+
+[![Visit RanuK IT](https://img.shields.io/badge/🌐_Explore-ranuk.dev/ranuk--it-FF6B6B?style=for-the-badge)](https://ranuk.dev/ranuk-it/)
+
+I founded **[RanuK IT Solutions](https://ranuk.dev/ranuk-it/)** to deliver European-standard engineering across Europe & Latin America — without the agency overhead. Backed by experience at **Booking.com** and **Accenture**.
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🛠️
+**Custom Software**
+Full-stack platforms, internal apps & legacy integrations
+
+</td>
+<td width="25%" align="center">
+
+### 🤖
+**Machine Learning**
+Dynamic pricing, forecasting, anomaly detection & CV
+
+</td>
+<td width="25%" align="center">
+
+### 🏗️
+**Legacy Modernization**
+Migration to modern stacks & full process automation
+
+</td>
+<td width="25%" align="center">
+
+### 🚨
+**24/7 Support**
+Predictable retainers & on-call monitoring
+
+</td>
+</tr>
+</table>
+
+✅ Demos in 48h • ✅ Fixed-price proposals • ✅ Code quality from Booking.com & Accenture • ✅ EN/ES/IT support
 
 ---
 
@@ -47,6 +105,20 @@ Ingeniero en Sistemas con experiencia en Python, TypeScript, SQL, ETL, integraci
 
 <table>
 <tr>
+<td width="50%">
+
+### 🌐 [ranuk.dev](https://github.com/RanuK12/Ranuk.dev)
+**Personal Portfolio + RanuK IT Showcase**
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript)](https://developer.mozilla.org)
+[![Live](https://img.shields.io/badge/Live-ranuk.dev-6C63FF)](https://ranuk.dev)
+
+- 🎨 Modern portfolio with project case studies
+- 💼 Dedicated business arm: **RanuK IT Solutions**
+- 🌍 Multilingual (EN/ES/IT)
+- ⚡ Fast, responsive & SEO-optimized
+
+</td>
 <td width="50%">
 
 ### 📈 [Binance Scalper](https://github.com/RanuK12/binance-scalper)
@@ -62,6 +134,8 @@ Ingeniero en Sistemas con experiencia en Python, TypeScript, SQL, ETL, integraci
 - ☁️ Deploy-ready: Docker, Fly.io, Render
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🚛 [GARYCIO Project](https://github.com/RanuK12/GARYCIO_Project)
@@ -75,6 +149,21 @@ Ingeniero en Sistemas con experiencia en Python, TypeScript, SQL, ETL, integraci
 - 📋 Mass messaging service with scheduling
 - 🗄️ PostgreSQL with Drizzle ORM & migrations
 - 📥 CSV donor import & automated workflows
+
+</td>
+<td width="50%">
+
+### 📊 [Analytics Master Hub](https://github.com/RanuK12/analytics-master-hub)
+**Unified Analytics & BI Platform**
+
+[![Analytics](https://img.shields.io/badge/Analytics-BI-F2C811?logo=powerbi)](https://powerbi.microsoft.com)
+[![Python](https://img.shields.io/badge/Python-Data-3776AB?logo=python)](https://python.org)
+[![SQL](https://img.shields.io/badge/SQL-Queries-4479A1?logo=postgresql)](https://postgresql.org)
+
+- 📈 Centralized KPI dashboards
+- 🔄 Automated ETL pipelines
+- 📊 Multi-source data consolidation
+- 🎯 Executive-ready reporting
 
 </td>
 </tr>
@@ -152,6 +241,7 @@ Ingeniero en Sistemas con experiencia en Python, TypeScript, SQL, ETL, integraci
 |---------|-------------|------|
 | [📈 Crypto Analysis Dashboard](https://github.com/RanuK12/algorithmic-trading-python) | Real-time trading analysis with RSI, MACD, Bollinger & backtesting | Python, Streamlit, Binance API |
 | [🛫 Flight Price Alert](https://github.com/RanuK12/Flight-Price-Alert) | Automated flight monitoring with Telegram alerts | Node.js, Puppeteer, SQLite |
+| [✈️ Flights Alerts](https://github.com/RanuK12/flights-alerts) | Python-based flight deal scanner | Python |
 | [🔍 IG Unfollow](https://github.com/RanuK12/ig-unfollow) | Instagram non-follower detector with anti-ban system | Vanilla JS, Instagram API |
 | [🏢 Eurobrico Web](https://github.com/RanuK12/eurobrico-web) | Web redesign audit & commercial proposal for Eurobrico | HTML, CSS, PDF generation |
 | [🎬 Movie Recommender](https://github.com/RanuK12/movie-recommender) | Neural collaborative filtering with t-SNE visualization | TensorFlow, Python |
@@ -247,6 +337,7 @@ Ingeniero en Sistemas con experiencia en Python, TypeScript, SQL, ETL, integraci
 
 - 🔭 Working on: **Binance Scalper** — adaptive crypto trading bot with ML
 - 🚛 Building: **GARYCIO** — logistics automation platform with WhatsApp
+- 💼 Growing: **[RanuK IT Solutions](https://ranuk.dev/ranuk-it/)** — boutique engineering for Europe & LATAM
 - 🌱 Learning: **LLMs, RAG architectures & agent frameworks**
 - 👯 Open to: **Collaborations on open-source projects**
 - 💬 Ask me about: **Python automation, trading bots, WhatsApp integrations, data pipelines**
@@ -265,6 +356,8 @@ Ingeniero en Sistemas con experiencia en Python, TypeScript, SQL, ETL, integraci
 
 I'm always open to new opportunities, collaborations, and interesting conversations.
 
+[![Visit ranuk.dev](https://img.shields.io/badge/🌐_Visit-ranuk.dev-6C63FF?style=for-the-badge)](https://ranuk.dev)
+[![Hire via RanuK IT](https://img.shields.io/badge/💼_Hire_via-RanuK_IT-FF6B6B?style=for-the-badge)](https://ranuk.dev/ranuk-it/)
 [![LinkedIn](https://img.shields.io/badge/Let's_connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-ranucoli/)
 [![Email](https://img.shields.io/badge/Send_me_an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranucoliemilio@gmail.com)
 
