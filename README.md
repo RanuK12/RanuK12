@@ -34,7 +34,7 @@
 class EmilioRanucoli:
     def __init__(self):
         self.role = "Systems Engineer & Full-Stack Developer"
-        self.company = "Eurobrico S.p.A."
+        self.company = "Booking.com"
         self.founder_of = "RanuK IT Solutions (ranuk.dev/ranuk-it)"
         self.website = "https://ranuk.dev"
         self.languages = ["Python", "TypeScript", "JavaScript", "SQL", "C#"]
