@@ -368,3 +368,7 @@ I'm always open to new opportunities, collaborations, and interesting conversati
 *"Building tools that solve real problems, one commit at a time"* 🚀
 
 </div>
+
+## Licencia
+
+MIT — © 2026 Ranuk IT Solutions | ranuk.dev
