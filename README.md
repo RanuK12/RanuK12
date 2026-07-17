@@ -341,14 +341,17 @@ Full-stack + ML + deployment, end to end
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RanuK12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanuK12&layout=compact&langs_count=8&theme=tokyonight"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RanuK12&theme=tokyonight)](https://git.io/streak-stats)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=RanuK12&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RanuK12&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RanuK12&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+### 🧊 Detailed Metrics
+
+<div align="center">
+
+![Metrics](https://raw.githubusercontent.com/RanuK12/RanuK12/main/github-metrics.svg)
 
 </div>
 
@@ -360,13 +363,11 @@ Full-stack + ML + deployment, end to end
 
 </div>
 
-### 🧊 3D Contributions & Metrics
+### 🧊 3D Contributions
 
 <div align="center">
 
 ![3D Contrib](https://raw.githubusercontent.com/RanuK12/RanuK12/main/profile-3d-contrib/profile-night-rainbow.svg)
-
-![Metrics](https://raw.githubusercontent.com/RanuK12/RanuK12/main/github-metrics.svg)
 
 </div>
 
