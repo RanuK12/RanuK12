@@ -8,15 +8,13 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Emilio%20Ranucoli&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Ingeniero%20en%20Sistemas%20·%20Creador%20de%20Agentes%20IA%20·%20Fundador%20@%20RanuK%20IT&descAlignY=58&descSize=18" width="100%" />
 
 <div align="center">
 
-# 👋 ¡Hola! Soy Emilio Ranucoli
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Ingeniero+en+Sistemas+%7C+Data+Scientist;Creador+de+Agentes+IA+%7C+Arquitecto+de+Automatizaci%C3%B3n;Full-Stack+Developer+%7C+FinTech+y+Trading;Fundador+%40+RanuK+IT+Solutions)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Ingeniero+en+Sistemas+%7C+Data+Scientist;Desarrollador+Full-Stack+%7C+Arquitecto+de+Automatización;Fundador+%40+RanuK+IT+Solutions;Python+%7C+TypeScript+%7C+Trading+%7C+IA)](https://git.io/typing-svg)
-
-[![Web](https://img.shields.io/badge/🌐_ranuk.dev-Visitá_mi_sitio-6C63FF?style=for-the-badge)](https://ranuk.dev)
+[![Website](https://img.shields.io/badge/🌐_ranuk.dev-Visita_mi_sitio-6C63FF?style=for-the-badge)](https://ranuk.dev)
 [![RanuK IT](https://img.shields.io/badge/💼_RanuK_IT-Solutions-FF6B6B?style=for-the-badge)](https://ranuk.dev/ranuk-it/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-ranucoli/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RanuK12/)
@@ -33,71 +31,107 @@
 ```python
 class EmilioRanucoli:
     def __init__(self):
-        self.rol = "Ingeniero en Sistemas & Desarrollador Full-Stack"
-        self.empresa = "Eurobrico S.p.A."
+        self.rol = "Ingeniero en Sistemas y Creador de Agentes IA"
         self.fundador_de = "RanuK IT Solutions (ranuk.dev/ranuk-it)"
         self.web = "https://ranuk.dev"
         self.lenguajes = ["Python", "TypeScript", "JavaScript", "SQL", "C#"]
+        self.construyendo = "Ranukita — mi propio agente de IA autónomo (mi Jarvis)"
         self.foco_actual = [
-            "Sistemas de trading algorítmico",
-            "Automatización con WhatsApp y logística",
-            "Aplicaciones de visión por computadora",
-            "Soluciones de negocio con ML",
+            "Agentes LLM autónomos y orquestación",
+            "Sistemas de trading algorítmico y multi-chain",
+            "Automatización, scraping y pipelines ETL",
+            "Soluciones de negocio potenciadas por ML",
         ]
-        self.intereses = ["IA/ML", "FinTech", "Bots de Trading", "Open Source"]
+        self.intereses = ["Agentes IA", "FinTech", "Automatización", "Open Source"]
 
     def saludar(self):
-        print("¡Gracias por pasar! Construyamos algo grande juntos 🚀")
+        print("¡Gracias por pasar! Construyamos algo increíble juntos 🚀")
 ```
 
-Construyo **herramientas de nivel productivo** que resuelven problemas reales — desde **bots de scalping de cripto** que se adaptan al mercado, hasta **plataformas logísticas con WhatsApp** que automatizan operaciones completas. Apunto a arquitecturas limpias, impacto medible y velocidad de entrega.
+Construyo **herramientas de nivel producción** que resuelven problemas reales — desde **agentes de IA autónomos** que ejecutan flujos completos, hasta **bots de trading** que se adaptan al mercado y **plataformas de automatización** que reemplazan operaciones repetitivas. Me importa la arquitectura limpia, el impacto medible y entregar rápido.
 
-🔗 **Visitá mi portfolio:** [**ranuk.dev**](https://ranuk.dev) — proyectos, casos de estudio y demos en vivo.
+🔗 **Visita mi portfolio:** [**ranuk.dev**](https://ranuk.dev) — proyectos, casos de éxito y demos en vivo.
+
+---
+
+## 🤖 Proyecto Insignia — Ranukita BOT-LLM
+
+<div align="center">
+
+![Insignia](https://img.shields.io/badge/🚧_Insignia-En_Desarrollo-6C63FF?style=for-the-badge)
+![Privado](https://img.shields.io/badge/🔒_Repo_Privado-333333?style=for-the-badge)
+![24/7](https://img.shields.io/badge/⚡_Activo-24%2F7-brightgreen?style=for-the-badge)
+
+</div>
+
+> ### *"No usas a Ranukita. Ranukita trabaja para ti."*
+
+Desde hace **más de 4 meses** construyo **Ranukita** — mi propio **Jarvis**: un **agente de IA totalmente autónomo** que corre en segundo plano y me quita trabajo real de encima. Es un sistema orquestado por LLM con **memoria semántica**, **coordinación multi-agente** e interfaz por **Telegram** para comandarlo desde cualquier lugar.
+
+Es mi proyecto más ambicioso — capaz de cosas realmente increíbles — y cada día se vuelve más inteligente. 🤫 *Pronto más.*
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-Orquestaci%C3%B3n-6C63FF?logo=openai&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-Interfaz-26A5E4?logo=telegram&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-Memoria_Vectorial-DC244C?logo=qdrant&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Desplegado-2496ED?logo=docker&logoColor=white)
+
+</div>
 
 ---
 
 ## 💼 RanuK IT Solutions
 
-> **Ingeniería de software boutique — acceso directo al ingeniero que escribe tu código.**
+> **Ingeniería de nivel europeo, adaptada a tu empresa — sin agencias, sin intermediarios.**
 
-[![Visitar RanuK IT](https://img.shields.io/badge/🌐_Explorá-ranuk.dev/ranuk--it-FF6B6B?style=for-the-badge)](https://ranuk.dev/ranuk-it/)
+[![Explora RanuK IT](https://img.shields.io/badge/🌐_Explora-ranuk.dev/ranuk--it-FF6B6B?style=for-the-badge)](https://ranuk.dev/ranuk-it/)
 
-Fundé **[RanuK IT Solutions](https://ranuk.dev/ranuk-it/)** para ofrecer ingeniería con estándar europeo en Europa y Latinoamérica — sin la sobrecarga de las agencias. Respaldado por experiencia en **Booking.com** y **Accenture**.
+Fundé **[RanuK IT Solutions](https://ranuk.dev/ranuk-it/)** para entregar software y ML de nivel empresarial en **Europa y Latinoamérica** — con acceso directo al ingeniero que escribe tu código. Respaldado por experiencia en **Booking.com** y **Accenture**.
 
 <table>
 <tr>
 <td width="25%" align="center">
 
-### 🛠️
-**Software a medida**
-Plataformas full-stack, apps internas e integraciones de sistemas legados
+### 🔍
+**Auditorías**
+WCAG/ADA, rendimiento y seguridad
+<br><br>
+**desde $50**
 
 </td>
 <td width="25%" align="center">
 
 ### 🤖
-**Machine Learning**
-Pricing dinámico, forecasting, detección de anomalías y CV
+**Automatizaciones**
+Bots Telegram/WhatsApp, scraping, ETL y APIs
+<br><br>
+**desde $100**
+
+</td>
+<td width="25%" align="center">
+
+### ⚡
+**Landing Factory**
+Landings profesionales en 24–48h (Next.js/React)
+<br><br>
+**desde $147**
 
 </td>
 <td width="25%" align="center">
 
 ### 🏗️
-**Modernización legacy**
-Migración a stacks actuales y automatización de procesos
-
-</td>
-<td width="25%" align="center">
-
-### 🚨
-**Soporte 24/7**
-Retainers predecibles y monitoreo on-call
+**Desarrollo SaaS**
+Full-stack + ML + despliegue, de punta a punta
+<br><br>
+**desde $500**
 
 </td>
 </tr>
 </table>
 
-✅ Demos en 48h • ✅ Propuestas a precio fijo • ✅ Calidad de código estilo Booking.com y Accenture • ✅ Soporte EN/ES/IT
+✅ Demos quincenales • ✅ Código con tests y docs • ✅ Respuesta en 24h hábiles • ✅ Soporte EN/ES/IT • 🌍 Europa y LATAM
 
 ---
 
@@ -107,54 +141,72 @@ Retainers predecibles y monitoreo on-call
 <tr>
 <td width="50%">
 
-### 🌐 [ranuk.dev](https://github.com/RanuK12/Ranuk.dev)
-**Portfolio personal + escaparate de RanuK IT**
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript)](https://developer.mozilla.org)
-[![Live](https://img.shields.io/badge/Live-ranuk.dev-6C63FF)](https://ranuk.dev)
-
-- 🎨 Portfolio moderno con casos de estudio
-- 💼 Brazo comercial: **RanuK IT Solutions**
-- 🌍 Multilingüe (EN/ES/IT)
-- ⚡ Rápido, responsive y SEO-optimizado
-
-</td>
-<td width="50%">
-
 ### 📈 [Binance Scalper](https://github.com/RanuK12/binance-scalper)
-**Bot de scalping cripto adaptativo con ML**
+**Bot de Scalping Cripto Adaptativo con ML**
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
 [![Binance](https://img.shields.io/badge/Binance-API-F0B90B?logo=binance)](https://binance.com)
 [![Docker](https://img.shields.io/badge/Docker-Deploy-2496ED?logo=docker)](https://docker.com)
 
-- 🤖 Motor de aprendizaje adaptativo para optimización
+- 🤖 Motor de aprendizaje adaptativo para optimizar estrategias
 - 📊 Análisis de mercado y gestión de posiciones en tiempo real
-- 🛡️ Risk manager con límites configurables
-- ☁️ Listo para deploy: Docker, Fly.io, Render
+- 🛡️ Gestor de riesgo con límites configurables
+- ☁️ Listo para desplegar: Docker, Fly.io, Render
+
+</td>
+<td width="50%">
+
+### ⚡ [Ranuk Profit Bot](https://github.com/RanuK12/) 🔒
+**Bot de Trading Multi-Chain (Privado)**
+
+[![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)](https://python.org)
+[![Web3](https://img.shields.io/badge/Web3-Multi--Chain-F16822?logo=web3dotjs)](https://web3js.org)
+[![Privado](https://img.shields.io/badge/Repo-Privado-333333?logo=github)](https://github.com/RanuK12/)
+
+- 🎯 Estrategias sniper, grid y RSI en un solo motor
+- 🔗 Ejecución multi-chain en varios DEX
+- 📊 Motor de analytics y señales integrado
+- 🛡️ Ejecución automatizada con gestión de riesgo
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🚛 [Proyecto GARYCIO](https://github.com/RanuK12/GARYCIO_Project)
-**Plataforma de automatización logística con WhatsApp**
+### 🚛 [GARYCIO Project](https://github.com/RanuK12/GARYCIO_Project)
+**Automatización de Logística con WhatsApp**
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-Node.js-3178C6?logo=typescript)](https://typescriptlang.org)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Drizzle-316192?logo=postgresql)](https://postgresql.org)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Bot-25D366?logo=whatsapp)](https://whatsapp.com)
 
 - 💬 Bot conversacional de WhatsApp con flujos multi-paso
-- 📋 Servicio de mensajería masiva con scheduling
+- 📋 Servicio de mensajería masiva con programación
 - 🗄️ PostgreSQL con Drizzle ORM y migraciones
-- 📥 Importación CSV y workflows automatizados
+- 📥 Importación CSV y flujos automatizados
 
 </td>
 <td width="50%">
 
+### ⚡ [Landing Factory](https://github.com/RanuK12/landing-factory)
+**Landings de Producción en 24–48h**
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)](https://typescriptlang.org)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)](https://nextjs.org)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev)
+
+- ⚡ Landing profesional lista en 24–48 horas
+- 🎨 Componentes reutilizables orientados a conversión
+- 📱 Responsive y optimizada para SEO por defecto
+- 💼 Impulsa el servicio "Landing Factory" de RanuK IT
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 📊 [Analytics Master Hub](https://github.com/RanuK12/analytics-master-hub)
-**Plataforma unificada de Analytics y BI**
+**Plataforma Unificada de Analytics y BI**
 
 [![Analytics](https://img.shields.io/badge/Analytics-BI-F2C811?logo=powerbi)](https://powerbi.microsoft.com)
 [![Python](https://img.shields.io/badge/Python-Data-3776AB?logo=python)](https://python.org)
@@ -162,8 +214,23 @@ Retainers predecibles y monitoreo on-call
 
 - 📈 Dashboards de KPIs centralizados
 - 🔄 Pipelines ETL automatizados
-- 📊 Consolidación multi-fuente
-- 🎯 Reporting ejecutivo
+- 📊 Consolidación de datos multi-fuente
+- 🎯 Reportes listos para dirección
+
+</td>
+<td width="50%">
+
+### ⚽ [LigaStatsGame](https://github.com/RanuK12/LigaStatsGame)
+**Juego de Estadísticas de Fútbol**
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)](https://typescriptlang.org)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev)
+
+- ⚽ Estadísticas y trivia de fútbol interactivas
+- 🧩 Lógica de juego basada en datos
+- 📱 UI moderna y responsive
+- ⚡ Build rápido con Vite + React
 
 </td>
 </tr>
@@ -171,7 +238,7 @@ Retainers predecibles y monitoreo on-call
 <td width="50%">
 
 ### 📷 [Laptop Cam Security](https://github.com/RanuK12/Laptop-Cam-Security)
-**Sistema de vigilancia con detección de movimiento**
+**Sistema de Vigilancia por Detección de Movimiento**
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)](https://python.org)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?logo=opencv)](https://opencv.org)
@@ -180,52 +247,20 @@ Retainers predecibles y monitoreo on-call
 - 🎥 Detección de movimiento en tiempo real
 - 📱 Alertas instantáneas por WhatsApp con anti-spam
 - 💾 Auto-grabación con rotación y limpieza
-- 🖥️ Integración con la bandeja de Windows
-
-</td>
-<td width="50%">
-
-### 🌐 [NotARobot Web](https://github.com/RanuK12/NotARobot_Web)
-**Sitio profesional de estudio audiovisual**
-
-[![HTML5](https://img.shields.io/badge/HTML5-Semantic-E34F26?logo=html5)](https://developer.mozilla.org)
-[![CSS3](https://img.shields.io/badge/CSS3-Responsive-1572B6?logo=css3)](https://developer.mozilla.org)
-[![JavaScript](https://img.shields.io/badge/JS-ES6+-F7DF1E?logo=javascript)](https://developer.mozilla.org)
-
-- 🎬 Hero video con diseño inmersivo
-- 📱 Layout responsive mobile-first
-- ♿ Cumple accesibilidad WCAG
-- 🚀 En producción: [notarobot.es](https://notarobot.es)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧹 [Local Cleaner](https://github.com/RanuK12/Local_CleaningPC-App)
-**Análisis y limpieza de disco para Windows**
-
-[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
-[![PySide6](https://img.shields.io/badge/PySide6-Qt6-green?logo=qt)](https://doc.qt.io/qtforpython/)
-[![Release](https://img.shields.io/github/v/release/RanuK12/Local_CleaningPC-App?color=orange)](https://github.com/RanuK12/Local_CleaningPC-App/releases)
-
-- 📁 Escaneo multi-disco con indexación recursiva
-- 📊 Categorización inteligente (11 categorías)
-- 🔒 Limpieza segura con cuarentena
-- 💿 Dashboard de estadísticas por disco
+- 🖥️ Integración con la bandeja del sistema de Windows
 
 </td>
 <td width="50%">
 
 ### 🏆 [JobConnect](https://github.com/RanuK12/JobFinder)
-**Plataforma de matching laboral con IA**
+**Plataforma de Matching de Empleo con IA**
 
 [![Python](https://img.shields.io/badge/Python-Flask-blue?logo=flask)](https://flask.palletsprojects.com)
 [![AI](https://img.shields.io/badge/AI-NLP-purple?logo=openai)](https://python.org)
 [![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwindcss)](https://tailwindcss.com)
 
 - 📄 Análisis inteligente de CV (PDF/DOCX)
-- 🤖 Matching de empleo con IA
+- 🤖 Matching de empleos con IA
 - 🌐 Multi-idioma (EN/ES/IT)
 - 🔍 Scraping multi-plataforma
 
@@ -239,17 +274,17 @@ Retainers predecibles y monitoreo on-call
 
 | Proyecto | Descripción | Tech |
 |----------|-------------|------|
-| [📈 Crypto Analysis Dashboard](https://github.com/RanuK12/algorithmic-trading-python) | Análisis de trading con RSI, MACD, Bollinger y backtesting | Python, Streamlit, Binance API |
-| [🛫 Flight Price Alert](https://github.com/RanuK12/Flight-Price-Alert) | Monitoreo automático de vuelos con alertas por Telegram | Node.js, Puppeteer, SQLite |
-| [✈️ Flights Alerts](https://github.com/RanuK12/flights-alerts) | Buscador de ofertas de vuelos en Python | Python |
-| [🔍 IG Unfollow](https://github.com/RanuK12/ig-unfollow) | Detector de no-seguidores de Instagram con anti-ban | Vanilla JS, Instagram API |
-| [🏢 Eurobrico Web](https://github.com/RanuK12/eurobrico-web) | Auditoría de rediseño y propuesta comercial para Eurobrico | HTML, CSS, PDF |
-| [🎬 Movie Recommender](https://github.com/RanuK12/movie-recommender) | Filtrado colaborativo neuronal con visualización t-SNE | TensorFlow, Python |
-| [💬 Sentiment Analyzer](https://github.com/RanuK12/review-sentiment-tool) | Clasificación NLP de reseñas | Python, TextBlob, Streamlit |
-| [💰 Crypto Price Monitor](https://github.com/RanuK12/cryptocurrency-price-monitor) | Alertas WhatsApp para movimientos de precios cripto | Python, Twilio |
+| [🌐 ranuk.dev](https://github.com/RanuK12/Ranuk.dev) | Portfolio personal + vitrina de RanuK IT (EN/ES/IT) | CSS, JavaScript |
+| [🏠 Real Estate Scraping](https://github.com/RanuK12/Real_Estate_Scraping) | Scraper y agregador de datos inmobiliarios | Python |
+| [🔥 Firecrawl Ecom Scraper](https://github.com/RanuK12/firecrawl-ecom-scraper) | Scraping de e-commerce con Firecrawl | Python |
+| [🧰 Scraper Utils](https://github.com/RanuK12/scraper-utils) | Toolkit reutilizable de scraping y automatización | Python |
+| [🧹 Local Cleaner](https://github.com/RanuK12/Local_CleaningPC-App) | Análisis y limpieza de disco para Windows | Python, PySide6 |
+| [🌐 NotARobot Web](https://github.com/RanuK12/NotARobot_Web) | Web de estudio audiovisual — en vivo en notarobot.es | HTML, CSS, JS |
+| [📈 Crypto Analysis Dashboard](https://github.com/RanuK12/algorithmic-trading-python) | RSI, MACD, Bollinger y backtesting | Python, Streamlit |
+| [🛫 Flight Price Alert](https://github.com/RanuK12/Flight-Price-Alert) | Monitoreo automatizado de vuelos con alertas | Node.js, Puppeteer |
+| [🎬 Movie Recommender](https://github.com/RanuK12/movie-recommender) | Filtrado colaborativo neuronal con t-SNE | TensorFlow, Python |
+| [💬 Sentiment Analyzer](https://github.com/RanuK12/review-sentiment-tool) | Clasificación de sentimiento con NLP | Python, Streamlit |
 | [📧 SkyMailer](https://github.com/RanuK12/SkyMailer) | Envío masivo de emails con interfaz web | Django, SMTP |
-| [📱 Gmail Cleanup Script](https://github.com/RanuK12/Gmail_Cleanup_Script) | Gestión automatizada de email | JavaScript, Gmail API |
-| [📊 BOT-Crypto-Alert](https://github.com/RanuK12/BOT-Crypto-Alert) | Alertas de compra/venta con análisis OHLC | Python |
 
 </details>
 
@@ -265,17 +300,23 @@ Retainers predecibles y monitoreo on-call
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### IA / LLM y Agentes
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### Frameworks y Librerías
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ### Datos y BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -295,14 +336,36 @@ Retainers predecibles y monitoreo on-call
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Analíticas de GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RanuK12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=es"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanuK12&layout=compact&langs_count=8&theme=tokyonight&locale=es"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RanuK12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanuK12&layout=compact&langs_count=8&theme=tokyonight"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RanuK12&theme=tokyonight&locale=es)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RanuK12&theme=tokyonight)](https://git.io/streak-stats)
+
+![Trofeos](https://github-profile-trophy.vercel.app/?username=RanuK12&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RanuK12&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+### 🐍 Serpiente de Contribuciones
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/RanuK12/RanuK12/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+### 🧊 Contribuciones 3D y Métricas
+
+<div align="center">
+
+![3D Contrib](https://raw.githubusercontent.com/RanuK12/RanuK12/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+![Metrics](https://raw.githubusercontent.com/RanuK12/RanuK12/main/github-metrics.svg)
 
 </div>
 
@@ -316,7 +379,7 @@ Retainers predecibles y monitoreo on-call
 
 ### 📚 Educación
 - 🎓 **Ingeniero en Sistemas** - UTN (2018-2024)
-- 📊 **Administración de Empresas** - UNC (2015-actual)
+- 📊 **Administración de Empresas** - UNC (2015-presente)
 
 </td>
 <td width="50%">
@@ -335,12 +398,12 @@ Retainers predecibles y monitoreo on-call
 
 ## 💡 Actualmente
 
-- 🔭 Trabajando en: **Binance Scalper** — bot adaptativo con ML
-- 🚛 Construyendo: **GARYCIO** — plataforma de logística con WhatsApp
+- 🤖 Construyendo: **Ranukita BOT-LLM** — mi propio agente de IA autónomo ("Jarvis")
+- 🔭 Trabajando en: **Binance Scalper y Ranuk Profit Bot** — trading adaptativo y multi-chain
 - 💼 Haciendo crecer: **[RanuK IT Solutions](https://ranuk.dev/ranuk-it/)** — ingeniería boutique para Europa y LATAM
 - 🌱 Aprendiendo: **LLMs, arquitecturas RAG y frameworks de agentes**
 - 👯 Abierto a: **Colaboraciones en proyectos open-source**
-- 💬 Preguntame sobre: **Automatización en Python, bots de trading, integraciones con WhatsApp, pipelines de datos**
+- 💬 Pregúntame sobre: **agentes IA, automatización con Python, bots de trading, pipelines de datos**
 
 ---
 
@@ -354,17 +417,19 @@ Retainers predecibles y monitoreo on-call
 
 ### 🤝 ¡Conectemos!
 
-Siempre estoy abierto a nuevas oportunidades, colaboraciones y conversaciones interesantes.
+Siempre estoy abierto a nuevas oportunidades, colaboraciones y buenas conversaciones.
 
-[![Visitar ranuk.dev](https://img.shields.io/badge/🌐_Visitar-ranuk.dev-6C63FF?style=for-the-badge)](https://ranuk.dev)
-[![Contratar via RanuK IT](https://img.shields.io/badge/💼_Contratar_via-RanuK_IT-FF6B6B?style=for-the-badge)](https://ranuk.dev/ranuk-it/)
+[![Visita ranuk.dev](https://img.shields.io/badge/🌐_Visita-ranuk.dev-6C63FF?style=for-the-badge)](https://ranuk.dev)
+[![Contrata via RanuK IT](https://img.shields.io/badge/💼_Contrata_via-RanuK_IT-FF6B6B?style=for-the-badge)](https://ranuk.dev/ranuk-it/)
 [![LinkedIn](https://img.shields.io/badge/Conectemos_en-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-ranucoli/)
-[![Email](https://img.shields.io/badge/Enviame_un-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranucoliemilio@gmail.com)
+[![Email](https://img.shields.io/badge/Env%C3%ADame_un-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranucoliemilio@gmail.com)
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RanuK12&color=blueviolet&style=flat-square)
 
 *"Construyendo herramientas que resuelven problemas reales, un commit a la vez"* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
 
 </div>
