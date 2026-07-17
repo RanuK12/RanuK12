@@ -174,17 +174,17 @@ Full-stack + ML + deploy, dall'inizio alla fine
 <tr>
 <td width="50%">
 
-### 🚛 [GARYCIO Project](https://github.com/RanuK12/GARYCIO_Project)
-**Automazione Logistica con WhatsApp**
+### 🧠 [LLM Proxy](https://github.com/RanuK12/LLM-Proxy)
+**Router Intelligente per Provider LLM Gratuiti**
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-Node.js-3178C6?logo=typescript)](https://typescriptlang.org)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Drizzle-316192?logo=postgresql)](https://postgresql.org)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Bot-25D366?logo=whatsapp)](https://whatsapp.com)
+[![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![LLM](https://img.shields.io/badge/OpenRouter_+_Groq-6C63FF?logo=openai&logoColor=white)](https://openrouter.ai)
 
-- 💬 Bot conversazionale WhatsApp con flussi multi-step
-- 📋 Servizio di messaggistica di massa con pianificazione
-- 🗄️ PostgreSQL con Drizzle ORM e migrazioni
-- 📥 Import CSV e flussi automatizzati
+- 🔀 Instradamento intelligente tra OpenRouter e Groq
+- 💸 Costo zero: provider free-tier, senza carta di credito
+- ⚡ Un unico endpoint `/generate`, pronto da vendere come servizio
+- 🛡️ Fallback e gestione dei limiti integrati
 
 </td>
 <td width="50%">
