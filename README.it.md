@@ -340,8 +340,6 @@ Full-stack + ML + deploy, dall'inizio alla fine
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RanuK12&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RanuK12&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
