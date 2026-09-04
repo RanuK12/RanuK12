@@ -25,6 +25,15 @@
 
 </div>
 
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-terminal.svg">
+    <img alt="Emilio Ranucoli - terminal profile" src="./profile-terminal-light.svg" width="900">
+  </picture>
+</div>
+
+
 ---
 
 ## 🧑‍💻 Chi sono
