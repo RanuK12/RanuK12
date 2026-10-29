@@ -18,7 +18,7 @@
 [![RanuK IT](https://img.shields.io/badge/💼_RanuK_IT-Solutions-FF6B6B?style=for-the-badge)](https://ranuk.dev/ranuk-it/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-ranucoli/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RanuK12/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranucoliemilio@gmail.com)
+[![Contact](https://img.shields.io/badge/Contact-ranuk.dev-D14836?style=for-the-badge&logoColor=white)](https://ranuk.dev)
 [![GitHub Pro](https://img.shields.io/badge/⭐_GitHub-PRO-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RanuK12)
 
 📍 Zaandam, Paesi Bassi | 🌍 Aperto a opportunità da remoto
@@ -431,7 +431,7 @@ Sono sempre aperto a nuove opportunità, collaborazioni e conversazioni interess
 [![Visita ranuk.dev](https://img.shields.io/badge/🌐_Visita-ranuk.dev-6C63FF?style=for-the-badge)](https://ranuk.dev)
 [![Assumi via RanuK IT](https://img.shields.io/badge/💼_Assumi_via-RanuK_IT-FF6B6B?style=for-the-badge)](https://ranuk.dev/ranuk-it/)
 [![LinkedIn](https://img.shields.io/badge/Connettiamoci_su-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-ranucoli/)
-[![Email](https://img.shields.io/badge/Scrivimi_una-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranucoliemilio@gmail.com)
+[![Contatto](https://img.shields.io/badge/Scrivimi-ranuk.dev-D14836?style=for-the-badge&logoColor=white)](https://ranuk.dev)
 
 ---
 

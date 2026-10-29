@@ -21,7 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-ranucoli/)
 [![X / Twitter](https://img.shields.io/badge/X-@ranuk__dev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ranuk_dev)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RanuK12/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranucoliemilio@gmail.com)
+[![Contact](https://img.shields.io/badge/Contact-ranuk.dev-D14836?style=for-the-badge&logoColor=white)](https://ranuk.dev)
 
 [![Booking.com](https://img.shields.io/badge/Ex--Booking.com-Amsterdam-003580?style=flat-square&logo=booking.com&logoColor=white)](https://ranuk.dev)
 [![Accenture](https://img.shields.io/badge/Ex--Accenture-Rome-A100FF?style=flat-square&logo=accenture&logoColor=white)](https://ranuk.dev)
@@ -329,7 +329,7 @@ US ADA / WCAG 2.1 AA audits & legacy modernization
 [![Visit ranuk.dev](https://img.shields.io/badge/🌐_Visit-ranuk.dev-6C63FF?style=for-the-badge)](https://ranuk.dev)
 [![Hire via Ranuk IT](https://img.shields.io/badge/💼_Hire_via-Ranuk_IT-64ffda?style=for-the-badge&logoColor=0a0a1a)](https://ranuk.dev/ranuk-it/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-ranucoli/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranucoliemilio@gmail.com)
+[![Contact](https://img.shields.io/badge/Contact-ranuk.dev-D14836?style=for-the-badge&logoColor=white)](https://ranuk.dev)
 
 ---
 
